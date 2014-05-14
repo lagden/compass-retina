@@ -1,4 +1,4 @@
-# Mixin compass sprite retina
+# Mixin Compass Sprite Retina
 
 This is a simple mixin to build sprites and yours css classes.
 
