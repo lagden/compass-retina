@@ -2,7 +2,7 @@
 
 This is a simple mixin to build sprites and yours css classes.
 
-## Requeriment
+## Requirement
 
 `Sass` and `Compass`
 
