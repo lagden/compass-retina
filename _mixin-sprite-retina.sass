@@ -24,12 +24,12 @@
 
     @each $s in sprite_names($map)
         .#{$name}-#{$s}
-            width: image-width(sprite-file($map, $s))
-            height: image-height(sprite-file($map, $s))
             background:
                 image: $url
                 repeat: no-repeat
                 position: sprite-position($map, $s)
+            width: image-width(sprite-file($map, $s))
+            height: image-height(sprite-file($map, $s))
 
     @if $url-retina != false
         +retina

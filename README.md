@@ -19,9 +19,9 @@ This is a simple mixin to build sprites and yours css classes.
 Your HTML:
 
     <i class="some-stuff"></i>
-    
+
 ## Contributors
 
  - [Thiago Lagden](https://github.com/lagden)
- 
+
 :beers:
